@@ -1,0 +1,11 @@
+.div-1{
+  @apply flex bg-slate-100 text-black overflow-y-scroll w-screen h-screen antialiased selection:bg-blue-600 selection:text-white
+}
+
+.div-2 {
+  @apply flex relative w-screen
+}
+
+.div-3 {
+  @apply text-black px-2 mt-2 w-full
+}
